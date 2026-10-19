@@ -1,0 +1,12 @@
+{
+  "name": "nuaa-ai-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "课程表小程序 AI 识别中转站（零第三方依赖，可部署到 Vercel 或任意 Node 主机）",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
